@@ -1,0 +1,6 @@
+{
+  "name": "Gyanvardhan2.0",
+  "description": "Professional educational learning app with live classes, video courses, test series, study materials, bilingual Hindi/English support, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
